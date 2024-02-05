@@ -15,4 +15,8 @@ Cestrad5</a></h1>
 - 📫 How to reach me: cestrad5@gmail.com
 - ⚡ Fun fact: programmers prefer dark mode... because light attracts bugs!
 
-
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
