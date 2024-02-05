@@ -4,8 +4,12 @@
 Cestrad5</a></h1>
 <h3 align="center">A passionate web developer from Medellin Colombia 🇨🇴 </h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D5616AQHZ7fC3xVdTaw/profile-displaybackgroundimage-shrink_350_1400/0/1701980277548?e=1712793600&v=beta&t=ew7S6pcbGNNCE02kt-X0ktV53TFmUPWxZtoFAyf8GkE" alt="cestrad5" /> </p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="left"> <img src="https://media.licdn.com/dms/image/D5616AQHZ7fC3xVdTaw/profile-displaybackgroundimage-shrink_350_1400/0/1701980277548?e=1712793600&v=beta&t=ew7S6pcbGNNCE02kt-X0ktV53TFmUPWxZtoFAyf8GkE" alt="cestrad5" /> </p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 🔭 I’m currently working on a public tracking app
 - 🌱 I’m currently learning NextJS
