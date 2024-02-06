@@ -6,7 +6,7 @@ Cestrad5</a></h1>
 
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Software+developer;Problem+Solver;Freelancer;Open+Source+Enthusiast;I'm+also+a+Manufacturing+Engineer;Project+Management+Specialist;Strategic+management+and+Innovation+Specialist;International+Master+Innovation+Manager" alt="CESTRAD5" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+a+Software+developer;Problem+Solver;Freelancer;Open+Source+Enthusiast;+I'm+also+a+Manufacturing+Engineer;Project+Management+Specialist;Strategic+management+and+Innovation+Specialist;International+Master+Innovation+Manager" alt="CESTRAD5" />
 </div>
 
 
