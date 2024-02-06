@@ -3,14 +3,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/camiloestradadeveloper/" target="_blank">
 Cestrad5</a></h1>
 <h3 align="center">A passionate web developer from Medellin Colombia 🇨🇴 </h3>
-<div>
-       <p>
-            <strong>
-                Software developer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
-                I am also a Manufacturing Engineer, Specialist in Project Management,  Specialist in Strategic management and Innovation, International Master Innovation Manager
-            </strong>
-        </p>
-</div>   
+
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Software developer;Problem+Solver;Freelancer;Open-Source+Enthusiast;I'm+also+a+Manufacturing+Engineer;Project+Management+Specialist;Strategic+management+and+Innovation+Specialist;International+Master+Innovation+Manager" alt="Headline" />
+</div>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
