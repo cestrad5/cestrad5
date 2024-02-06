@@ -4,10 +4,13 @@
 Cestrad5</a></h1>
 <h3 align="center">A passionate web developer from Medellin Colombia 🇨🇴 </h3>
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Software developer;Problem+Solver" alt="Headline" />
-    </div>
 
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Software+developer;Problem+Solver;Freelancer;Open+Source+Enthusiast;I'm+also+a+Manufacturing+Engineer" alt="CESTRAD5" />
+</div>
+
+
+I'm+Software+developer;Problem+Solver;Freelancer;Open+Source+Enthusiast;I'm+also+a+Manufacturing+Engineer;
 
 
 
