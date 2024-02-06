@@ -24,6 +24,8 @@ Cestrad5</a></h1>
 - 📫 How to reach me: cestrad5@gmail.com
 - ⚡ Fun fact: programmers prefer dark mode... because light attracts bugs!
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=cestrad5&theme=gruvbox&show_icons=true)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cestrad5&show_icons=true&theme=dark&locale=en&layout=compact" alt="cestrad5" /></p>
 
 <!--- snake -->
