@@ -1,6 +1,6 @@
-### Hi there 👋 I am collecting your data too...
+### Hi there, I am collecting your data too...
 
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/camiloestradadeveloper/" target="_blank">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <a href="https://www.linkedin.com/in/camiloestradadeveloper/" target="_blank">
 Cestrad5</a></h1>
 <h3 align="center">A passionate web developer from Medellin Colombia 🇨🇴 </h3>
 
