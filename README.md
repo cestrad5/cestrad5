@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm <a href="https://www.linkedin.com/in/camiloestradadeveloper/" target="_blank">
 CAMILO</a></h1>
-<h3 align="center">A passionate web developer from Medellin Colombia 🇨🇴 </h3>
+<h3 align="center">A Software Developer from Medellin Colombia 🇨🇴 </h3>
 
 
 <div align=center>
