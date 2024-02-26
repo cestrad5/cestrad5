@@ -6,7 +6,7 @@ CAMILO</a></h1>
 
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Software+developer;Manufacturing+Engineer;Freelancer;Product Owner;Startup Entrepreneur;International Master in Innovation Management;Specialist in Strategic Management and Innovation;Specialist in Project Management Principles;English and Spanish Speaker" alt="Right now I'm working on a software that will change the world" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Software+developer;Product Owner;Startup Entrepreneur;English and Spanish Speaker" alt="Right now I'm working on a software that will change the world" />
 </div>
 
 <!--horizontal divider(gradiant)-->
